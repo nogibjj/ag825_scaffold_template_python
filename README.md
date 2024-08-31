@@ -13,5 +13,6 @@ This file will have the following components and their purpose:
 - Makefile
     - Compilation and maintainence of code
     - Helps manage dependinces
+    - Install / Format / Lint / Test
 - Requirements file
     - Text file (.txt) detailing the required packages to be installed for this program to run

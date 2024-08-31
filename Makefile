@@ -1,6 +1,6 @@
  install:
-	#pip install --upgrade pip &REM checks latest version of python &&\
-	pip install -r requirements.txt &REM --installs requirered packages from requirements.txt
+	pip install --upgrade pip  &&\
+	pip install -r requirements.txt
 
 format:
 	black *.py #format all files	

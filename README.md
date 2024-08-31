@@ -1,4 +1,5 @@
 # scaffold_template_python
+[![CI](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml/badge.svg)](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml)
 Adil Keku Gazder <br>
 ag825, adil.gazder@duke.edu <br>
 IDS 706: Data Engineering Systems <br>

@@ -4,7 +4,7 @@ ag825, adil.gazder@duke.edu <br>
 IDS 706: Data Engineering Systems <br>
 Duke University, Fall 2024 <br >
 ##
-[![CI](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml/badge.svg)](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml)
+[![CI](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml/badge.svg)](https://github.com/ag826/scaffold_template_python/actions/workflows/hello.yml) <br >
 This file stands to create a default template for all projects and implemetn CI/CD best practices. 
 This file will have the following components and their purpose:
 - .gitignore file

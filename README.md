@@ -17,3 +17,5 @@ This file will have the following components and their purpose:
     - Install / Format / Lint / Test
 - Requirements file
     - Text file (.txt) detailing the required packages to be installed for this program to run
+- Multiply.py and test_multiply.py
+    - Main and test file (with assert statements) to test and verify the functionality 

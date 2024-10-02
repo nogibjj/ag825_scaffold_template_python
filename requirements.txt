@@ -9,3 +9,6 @@ pylint
 pandas
 matplotlib
 tabulate
+ruff
+nbval
+nbqa

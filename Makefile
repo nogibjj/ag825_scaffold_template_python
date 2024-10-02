@@ -21,7 +21,6 @@ generate_and_push:
 	python main.py
 	git config --local user.email "action@github.com"
 	git config --local user.name "GitHub Action"
-	git checkout -- medals_over_time.png medals_per_country.png
 	git pull
 	git add .
 	git commit -m "rerun push" --allow-empty

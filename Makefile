@@ -21,7 +21,7 @@ generate_and_push:
 	python main.py
 	git config --local user.email "action@github.com"
 	git config --local user.name "GitHub Action"
-	git stash --include-untracked # Stash untracked files
+	git stash --include-untracked  
     git pull                      # Pull the latest changes
     git stash pop || true          # Apply stashed files (if any), don't fail if no stash
 	git add .
